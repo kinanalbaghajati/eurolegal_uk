@@ -1,0 +1,21 @@
+.c-image
+{
+
+    animation-duration: 1000ms;
+    animation-iteration-count: infinite;
+    transition-timing-function: linear;
+    transition: 300ms;
+}
+.c-image:hover
+{
+    scale: 1.02;
+}
+
+@media (max-width: 700px) {
+    .c-image
+    {
+        display: none;
+    }
+}
+
+/*dont forget to meadia the logo images in the end of home */
