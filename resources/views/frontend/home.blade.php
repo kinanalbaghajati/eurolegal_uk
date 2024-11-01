@@ -286,7 +286,7 @@
                     </form>
                 </div>
                 <div class="col-md-6 col-lg-6 text-center">
-                    <img class="c-image" alt="logo" src="{{asset('frontend/images/logo2.png')}}" style="margin-left: 6rem;margin-top: 10rem">
+                    <img class="c-image" alt="logo" src="{{asset('frontend/images/logo2.png')}}" style="margin-left: 6rem;margin-top: 10rem;height: 80px">
                 </div>
             </div>
 
